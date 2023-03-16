@@ -1,7 +1,8 @@
 {
   "collectionName": "components_page_headers",
   "info": {
-    "displayName": "header"
+    "displayName": "header",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -19,6 +20,14 @@
       "repeatable": false,
       "component": "page.button",
       "required": false
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
     }
   }
 }
