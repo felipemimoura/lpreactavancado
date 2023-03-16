@@ -38,6 +38,18 @@
       "type": "component",
       "repeatable": false,
       "component": "page.section-tech"
+    },
+    "sectionConcepts": {
+      "displayName": "sectionConcepts",
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-concepts"
+    },
+    "sectionModule": {
+      "displayName": "sectionModules",
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-modules"
     }
   }
 }
